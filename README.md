@@ -25,7 +25,7 @@ Results in:
 ## Example
 
 ```bash
-deno run https://deno.land/x/word_wrap/example.ts
+deno run https://deno.land/x/text_indent/example.ts
 ```
 
 ## License
